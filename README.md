@@ -2,7 +2,7 @@
 ## Manifesto of Continuous Memory
 
 **Author of the concept:** Andrey Narrativ 
-**Text form born in dialogue with artificial intelligence**  
+
 **Date of first fixation:** 2024  
 **License:** CC BY 4.0
 
